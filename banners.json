@@ -1,6 +1,5 @@
 {
-  "banners": [
-    {
+  {
       "id": 1,
       "name": "Banner 1",
       "imageUrl": "https://event.apnademand.com/api/public/banners/1734172544.jpg"
@@ -40,7 +39,6 @@
       "name": "Banner 3",
       "imageUrl": "https://cdn.dummyjson.com/products/images/smartphones/iPhone%206/thumbnail.png"
     }
-  ]
 }
 
 
