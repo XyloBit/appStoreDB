@@ -15,31 +15,15 @@
       "Status Updates"
     ],
     "company": "Meta Platforms, Inc.",
-    "reviews": [
-      {
-        "rating": 5,
-        "comment": "Best messaging app with smooth experience!",
-        "date": "2024-05-23T08:56:21.618Z",
-        "reviewerName": "Alice Johnson",
-        "reviewerEmail": "alice.johnson@example.com"
-      },
-      {
-        "rating": 4,
-        "comment": "Good app but needs improvements in video calls.",
-        "date": "2024-05-24T10:30:45.123Z",
-        "reviewerName": "Robert Smith",
-        "reviewerEmail": "robert.smith@example.com"
-      }
-    ],
     "size": 35,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.618Z",
       "updatedAt": "2024-05-23T08:56:21.618Z",
       "barcode": "9164035109868",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://www.whatsapp.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg",
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png",
       "https://www.whatsapp.com/img/whatsapp-logo.png"
     ],
     "apkFile": "https://www.whatsapp.com/android/apk"
@@ -65,10 +49,10 @@
       "createdAt": "2024-05-23T10:15:30.000Z",
       "updatedAt": "2024-05-23T10:15:30.000Z",
       "barcode": "9123456789012",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://telegram.org/img/qr-code.png"
     },
     "images": [
-      "https://telegram.org/img/t_logo.png"
+      "https://telegram.org/img/telegram-logo.png"
     ],
     "apkFile": "https://telegram.org/dl/android"
   },
@@ -92,10 +76,10 @@
       "createdAt": "2024-05-23T12:45:00.000Z",
       "updatedAt": "2024-05-23T12:45:00.000Z",
       "barcode": "9234567890123",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://www.spotify.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/2/26/Spotify_logo_with_text.svg"
+      "https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.png"
     ],
     "apkFile": "https://www.spotify.com/download/android/"
   },
@@ -119,10 +103,10 @@
       "createdAt": "2024-05-23T15:20:45.000Z",
       "updatedAt": "2024-05-23T15:20:45.000Z",
       "barcode": "9345678901234",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://www.netflix.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/7/75/Netflix_icon.svg"
+      "https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.png"
     ],
     "apkFile": "https://www.netflix.com/android-app"
   },
@@ -146,10 +130,10 @@
       "createdAt": "2024-05-23T17:10:00.000Z",
       "updatedAt": "2024-05-23T17:10:00.000Z",
       "barcode": "9456789012345",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://www.google.com/maps/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/5/5f/Google_Maps_logo.svg"
+      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon.png"
     ],
     "apkFile": "https://www.google.com/maps/android-app"
   },
@@ -174,10 +158,10 @@
       "createdAt": "2024-05-23T19:30:00.000Z",
       "updatedAt": "2024-05-23T19:30:00.000Z",
       "barcode": "9567890123456",
-      "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
+      "qrCode": "https://www.instagram.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg"
+      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
     ],
     "apkFile": "https://www.instagram.com/download/android/"
   }
