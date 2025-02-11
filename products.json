@@ -22,9 +22,12 @@
       "barcode": "9164035109868",
       "qrCode": "https://www.whatsapp.com/qr-code"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png",
-      "https://www.whatsapp.com/img/whatsapp-logo.png"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://www.whatsapp.com/android/apk"
   },
@@ -51,8 +54,12 @@
       "barcode": "9567890123456",
       "qrCode": "https://www.instagram.com/qr-code"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://www.instagram.com/download/android/"
   },
@@ -78,8 +85,12 @@
       "barcode": "9234567890123",
       "qrCode": "https://www.spotify.com/qr-code"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Spotify_2.png/640px-Spotify_2.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Spotify_2.png/640px-Spotify_2.png"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://www.spotify.com/download/android/"
   },
@@ -105,8 +116,12 @@
       "barcode": "9345678901234",
       "qrCode": "https://www.netflix.com/qr-code"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Netflix-Symbol.png?20230915172024",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Netflix-Symbol.png?20230915172024"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://www.netflix.com/android-app"
   },
@@ -132,8 +147,12 @@
       "barcode": "9456789012345",
       "qrCode": "https://www.google.com/maps/qr-code"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Meet.png/640px-Google_Meet.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Meet.png/640px-Google_Meet.png"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://www.google.com/maps/android-app"
   },
@@ -160,8 +179,12 @@
       "barcode": "9123456789012",
       "qrCode": "https://telegram.org/img/qr-code.png"
     },
+    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png",
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png"
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269453802.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269467968.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269493504.jpg",
+      "https://github.com/XyloBit/appStoreDB/blob/master/images/1739269478870.jpg"
     ],
     "apkFile": "https://telegram.org/dl/android"
   }
