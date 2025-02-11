@@ -8,11 +8,11 @@
     "discountPercentage": 7.17,
     "rating": 4.94,
     "stock": 5,
-    "tags": [
+    "features": [
       "beauty",
       "mascara"
     ],
-    "brand": "Essence",
+    "company": "Essence",
     "sku": "RCH45Q1A",
     "weight": 2,
     "dimensions": {
@@ -47,7 +47,7 @@
       }
     ],
     "returnPolicy": "30 days return policy",
-    "minimumOrderQuantity": 24,
+    "size": 24,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.618Z",
       "updatedAt": "2024-05-23T08:56:21.618Z",
@@ -55,9 +55,9 @@
       "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
     },
     "images": [
-      "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/1.png"
+      "https://img.freepik.com/free-psd/whatsapp-call-icon-psd-editable_314999-3666.jpg"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/apkFile.png"
   },
   {
     "id": 2,
@@ -68,11 +68,11 @@
     "discountPercentage": 5.5,
     "rating": 3.28,
     "stock": 44,
-    "tags": [
+    "features": [
       "beauty",
       "eyeshadow"
     ],
-    "brand": "Glamour Beauty",
+    "company": "Glamour Beauty",
     "sku": "MVCFH27F",
     "weight": 3,
     "dimensions": {
@@ -107,7 +107,7 @@
       }
     ],
     "returnPolicy": "30 days return policy",
-    "minimumOrderQuantity": 32,
+    "size": 32,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.618Z",
       "updatedAt": "2024-05-23T08:56:21.618Z",
@@ -117,7 +117,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Eyeshadow%20Palette%20with%20Mirror/apkFile.png"
   },
   {
     "id": 3,
@@ -128,11 +128,11 @@
     "discountPercentage": 18.14,
     "rating": 3.82,
     "stock": 59,
-    "tags": [
+    "features": [
       "beauty",
       "face powder"
     ],
-    "brand": "Velvet Touch",
+    "company": "Velvet Touch",
     "sku": "9EN8WLT2",
     "weight": 8,
     "dimensions": {
@@ -167,7 +167,7 @@
       }
     ],
     "returnPolicy": "60 days return policy",
-    "minimumOrderQuantity": 25,
+    "size": 25,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.618Z",
       "updatedAt": "2024-05-23T08:56:21.618Z",
@@ -177,7 +177,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Powder%20Canister/apkFile.png"
   },
   {
     "id": 4,
@@ -188,11 +188,11 @@
     "discountPercentage": 19.03,
     "rating": 2.51,
     "stock": 68,
-    "tags": [
+    "features": [
       "beauty",
       "lipstick"
     ],
-    "brand": "Chic Cosmetics",
+    "company": "Chic Cosmetics",
     "sku": "O5IF1NTA",
     "weight": 5,
     "dimensions": {
@@ -227,7 +227,7 @@
       }
     ],
     "returnPolicy": "90 days return policy",
-    "minimumOrderQuantity": 6,
+    "size": 6,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -237,7 +237,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Red%20Lipstick/apkFile.png"
   },
   {
     "id": 5,
@@ -248,11 +248,11 @@
     "discountPercentage": 2.46,
     "rating": 3.91,
     "stock": 71,
-    "tags": [
+    "features": [
       "beauty",
       "nail polish"
     ],
-    "brand": "Nail Couture",
+    "company": "Nail Couture",
     "sku": "YUIIIP4W",
     "weight": 9,
     "dimensions": {
@@ -287,7 +287,7 @@
       }
     ],
     "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 46,
+    "size": 46,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -297,7 +297,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Red%20Nail%20Polish/apkFile.png"
   },
   {
     "id": 6,
@@ -308,11 +308,11 @@
     "discountPercentage": 0.32,
     "rating": 4.85,
     "stock": 17,
-    "tags": [
+    "features": [
       "fragrances",
       "perfumes"
     ],
-    "brand": "Calvin Klein",
+    "company": "Calvin Klein",
     "sku": "DZM2JQZE",
     "weight": 5,
     "dimensions": {
@@ -347,7 +347,7 @@
       }
     ],
     "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 20,
+    "size": 20,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -359,7 +359,7 @@
       "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/2.png",
       "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/fragrances/Calvin%20Klein%20CK%20One/apkFile.png"
   },
   {
     "id": 7,
@@ -370,11 +370,11 @@
     "discountPercentage": 18.64,
     "rating": 2.76,
     "stock": 41,
-    "tags": [
+    "features": [
       "fragrances",
       "perfumes"
     ],
-    "brand": "Chanel",
+    "company": "Chanel",
     "sku": "K71HBCGS",
     "weight": 4,
     "dimensions": {
@@ -409,7 +409,7 @@
       }
     ],
     "returnPolicy": "60 days return policy",
-    "minimumOrderQuantity": 5,
+    "size": 5,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -421,7 +421,7 @@
       "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/2.png",
       "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/fragrances/Chanel%20Coco%20Noir%20Eau%20De/apkFile.png"
   },
   {
     "id": 8,
@@ -432,11 +432,11 @@
     "discountPercentage": 17.44,
     "rating": 3.31,
     "stock": 91,
-    "tags": [
+    "features": [
       "fragrances",
       "perfumes"
     ],
-    "brand": "Dior",
+    "company": "Dior",
     "sku": "E70NB03B",
     "weight": 10,
     "dimensions": {
@@ -471,7 +471,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 8,
+    "size": 8,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -483,7 +483,7 @@
       "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/2.png",
       "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/fragrances/Dior%20J'adore/apkFile.png"
   },
   {
     "id": 9,
@@ -494,11 +494,11 @@
     "discountPercentage": 11.47,
     "rating": 2.68,
     "stock": 3,
-    "tags": [
+    "features": [
       "fragrances",
       "perfumes"
     ],
-    "brand": "Dolce & Gabbana",
+    "company": "Dolce & Gabbana",
     "sku": "1NBFK980",
     "weight": 5,
     "dimensions": {
@@ -533,7 +533,7 @@
       }
     ],
     "returnPolicy": "30 days return policy",
-    "minimumOrderQuantity": 9,
+    "size": 9,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.619Z",
       "updatedAt": "2024-05-23T08:56:21.619Z",
@@ -545,7 +545,7 @@
       "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/2.png",
       "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/fragrances/Dolce%20Shine%20Eau%20de/apkFile.png"
   },
   {
     "id": 10,
@@ -556,11 +556,11 @@
     "discountPercentage": 8.9,
     "rating": 2.69,
     "stock": 93,
-    "tags": [
+    "features": [
       "fragrances",
       "perfumes"
     ],
-    "brand": "Gucci",
+    "company": "Gucci",
     "sku": "FFKZ6HOF",
     "weight": 10,
     "dimensions": {
@@ -595,7 +595,7 @@
       }
     ],
     "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 10,
+    "size": 10,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -607,7 +607,7 @@
       "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/2.png",
       "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/fragrances/Gucci%20Bloom%20Eau%20de/apkFile.png"
   },
   {
     "id": 11,
@@ -618,11 +618,11 @@
     "discountPercentage": 0.29,
     "rating": 4.14,
     "stock": 47,
-    "tags": [
+    "features": [
       "furniture",
       "beds"
     ],
-    "brand": "Annibale Colombo",
+    "company": "Annibale Colombo",
     "sku": "4KMDTZWF",
     "weight": 3,
     "dimensions": {
@@ -657,7 +657,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 1,
+    "size": 1,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -669,7 +669,7 @@
       "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/2.png",
       "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Bed/apkFile.png"
   },
   {
     "id": 12,
@@ -680,11 +680,11 @@
     "discountPercentage": 18.54,
     "rating": 3.08,
     "stock": 16,
-    "tags": [
+    "features": [
       "furniture",
       "sofas"
     ],
-    "brand": "Annibale Colombo",
+    "company": "Annibale Colombo",
     "sku": "LUU95CQP",
     "weight": 3,
     "dimensions": {
@@ -719,7 +719,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 1,
+    "size": 1,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -731,7 +731,7 @@
       "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/2.png",
       "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/furniture/Annibale%20Colombo%20Sofa/apkFile.png"
   },
   {
     "id": 13,
@@ -742,11 +742,11 @@
     "discountPercentage": 9.58,
     "rating": 4.48,
     "stock": 16,
-    "tags": [
+    "features": [
       "furniture",
       "bedside tables"
     ],
-    "brand": "Furniture Co.",
+    "company": "Furniture Co.",
     "sku": "OWPLTZYX",
     "weight": 10,
     "dimensions": {
@@ -781,7 +781,7 @@
       }
     ],
     "returnPolicy": "No return policy",
-    "minimumOrderQuantity": 5,
+    "size": 5,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -793,7 +793,7 @@
       "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/2.png",
       "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/furniture/Bedside%20Table%20African%20Cherry/apkFile.png"
   },
   {
     "id": 14,
@@ -804,11 +804,11 @@
     "discountPercentage": 15.23,
     "rating": 4.11,
     "stock": 47,
-    "tags": [
+    "features": [
       "furniture",
       "office chairs"
     ],
-    "brand": "Knoll",
+    "company": "Knoll",
     "sku": "RKHVJ4FE",
     "weight": 3,
     "dimensions": {
@@ -843,7 +843,7 @@
       }
     ],
     "returnPolicy": "30 days return policy",
-    "minimumOrderQuantity": 5,
+    "size": 5,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -855,7 +855,7 @@
       "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/2.png",
       "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/furniture/Knoll%20Saarinen%20Executive%20Conference%20Chair/apkFile.png"
   },
   {
     "id": 15,
@@ -866,11 +866,11 @@
     "discountPercentage": 11.22,
     "rating": 3.26,
     "stock": 95,
-    "tags": [
+    "features": [
       "furniture",
       "bathroom"
     ],
-    "brand": "Bath Trends",
+    "company": "Bath Trends",
     "sku": "7OLTIEVO",
     "weight": 6,
     "dimensions": {
@@ -905,7 +905,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 1,
+    "size": 1,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -917,7 +917,7 @@
       "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/2.png",
       "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/3.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/furniture/Wooden%20Bathroom%20Sink%20With%20Mirror/apkFile.png"
   },
   {
     "id": 16,
@@ -928,7 +928,7 @@
     "discountPercentage": 1.97,
     "rating": 2.96,
     "stock": 9,
-    "tags": [
+    "features": [
       "fruits"
     ],
     "sku": "QTROUV79",
@@ -965,7 +965,7 @@
       }
     ],
     "returnPolicy": "60 days return policy",
-    "minimumOrderQuantity": 44,
+    "size": 44,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -975,7 +975,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/groceries/Apple/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Apple/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/groceries/Apple/apkFile.png"
   },
   {
     "id": 17,
@@ -986,7 +986,7 @@
     "discountPercentage": 17.99,
     "rating": 2.83,
     "stock": 96,
-    "tags": [
+    "features": [
       "meat"
     ],
     "sku": "BWWA2MSO",
@@ -1023,7 +1023,7 @@
       }
     ],
     "returnPolicy": "90 days return policy",
-    "minimumOrderQuantity": 21,
+    "size": 21,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -1033,7 +1033,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/groceries/Beef%20Steak/apkFile.png"
   },
   {
     "id": 18,
@@ -1044,7 +1044,7 @@
     "discountPercentage": 9.57,
     "rating": 2.88,
     "stock": 13,
-    "tags": [
+    "features": [
       "pet supplies",
       "cat food"
     ],
@@ -1082,7 +1082,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 48,
+    "size": 48,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -1092,7 +1092,7 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/groceries/Cat%20Food/apkFile.png"
   },
   {
     "id": 19,
@@ -1103,7 +1103,7 @@
     "discountPercentage": 10.46,
     "rating": 4.61,
     "stock": 69,
-    "tags": [
+    "features": [
       "meat"
     ],
     "sku": "G5YEHW7B",
@@ -1140,7 +1140,7 @@
       }
     ],
     "returnPolicy": "7 days return policy",
-    "minimumOrderQuantity": 46,
+    "size": 46,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -1151,7 +1151,7 @@
       "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/1.png",
       "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/2.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/groceries/Chicken%20Meat/apkFile.png"
   },
   {
     "id": 20,
@@ -1162,7 +1162,7 @@
     "discountPercentage": 18.89,
     "rating": 4.01,
     "stock": 22,
-    "tags": [
+    "features": [
       "cooking essentials"
     ],
     "sku": "Q6ZP1UY8",
@@ -1199,7 +1199,7 @@
       }
     ],
     "returnPolicy": "60 days return policy",
-    "minimumOrderQuantity": 2,
+    "size": 2,
     "meta": {
       "createdAt": "2024-05-23T08:56:21.620Z",
       "updatedAt": "2024-05-23T08:56:21.620Z",
@@ -1209,6 +1209,6 @@
     "images": [
       "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/1.png"
     ],
-    "thumbnail": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/thumbnail.png"
+    "apkFile": "https://cdn.dummyjson.com/products/images/groceries/Cooking%20Oil/apkFile.png"
   }
 ]
