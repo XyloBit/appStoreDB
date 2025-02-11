@@ -29,32 +29,32 @@
     "apkFile": "https://www.whatsapp.com/android/apk"
   },
   {
-    "id": 2,
-    "title": "Telegram",
-    "description": "Telegram is a cloud-based instant messaging app with fast and secure communication.",
-    "category": "Messaging",
+    "id": 6,
+    "title": "Instagram",
+    "description": "Instagram is a social media platform for sharing photos and videos with friends and followers.",
+    "category": "Social",
     "paid": false,
     "price": 0.0,
-    "rating": 4.7,
+    "rating": 4.4,
     "features": [
-      "Cloud Sync",
-      "Channels & Groups",
-      "Secret Chats",
-      "Media Sharing",
-      "Custom Themes"
+      "Photo & Video Sharing",
+      "Stories",
+      "Live Streaming",
+      "Messaging",
+      "Reels"
     ],
-    "company": "Telegram FZ-LLC",
-    "size": 45,
+    "company": "Meta Platforms, Inc.",
+    "size": 55,
     "meta": {
-      "createdAt": "2024-05-23T10:15:30.000Z",
-      "updatedAt": "2024-05-23T10:15:30.000Z",
-      "barcode": "9123456789012",
-      "qrCode": "https://telegram.org/img/qr-code.png"
+      "createdAt": "2024-05-23T19:30:00.000Z",
+      "updatedAt": "2024-05-23T19:30:00.000Z",
+      "barcode": "9567890123456",
+      "qrCode": "https://www.instagram.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
     ],
-    "apkFile": "https://telegram.org/dl/android"
+    "apkFile": "https://www.instagram.com/download/android/"
   },
   {
     "id": 3,
@@ -138,31 +138,31 @@
     "apkFile": "https://www.google.com/maps/android-app"
   },
   {
-    "id": 6,
-    "title": "Instagram",
-    "description": "Instagram is a social media platform for sharing photos and videos with friends and followers.",
-    "category": "Social",
+    "id": 2,
+    "title": "Telegram",
+    "description": "Telegram is a cloud-based instant messaging app with fast and secure communication.",
+    "category": "Messaging",
     "paid": false,
     "price": 0.0,
-    "rating": 4.4,
+    "rating": 4.7,
     "features": [
-      "Photo & Video Sharing",
-      "Stories",
-      "Live Streaming",
-      "Messaging",
-      "Reels"
+      "Cloud Sync",
+      "Channels & Groups",
+      "Secret Chats",
+      "Media Sharing",
+      "Custom Themes"
     ],
-    "company": "Meta Platforms, Inc.",
-    "size": 55,
+    "company": "Telegram FZ-LLC",
+    "size": 45,
     "meta": {
-      "createdAt": "2024-05-23T19:30:00.000Z",
-      "updatedAt": "2024-05-23T19:30:00.000Z",
-      "barcode": "9567890123456",
-      "qrCode": "https://www.instagram.com/qr-code"
+      "createdAt": "2024-05-23T10:15:30.000Z",
+      "updatedAt": "2024-05-23T10:15:30.000Z",
+      "barcode": "9123456789012",
+      "qrCode": "https://telegram.org/img/qr-code.png"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png"
     ],
-    "apkFile": "https://www.instagram.com/download/android/"
+    "apkFile": "https://telegram.org/dl/android"
   }
 ]
