@@ -22,7 +22,7 @@
       "barcode": "9164035109868",
       "qrCode": "https://www.whatsapp.com/qr-code"
     },
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png",
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/whatsapp_logo.jpg",
     "images": [
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269453802.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269467968.jpg",
@@ -179,7 +179,7 @@
       "barcode": "9123456789012",
       "qrCode": "https://telegram.org/img/qr-code.png"
     },
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png",
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/telegram_logo.jpg",
     "images": [
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269453802.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269467968.jpg",
