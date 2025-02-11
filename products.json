@@ -1,13 +1,11 @@
 [
   {
     "id": 1,
-    "title": "Essence Mascara Lash Princess",
+    "title": "whatsapp(Messaging application)",
     "description": "The Essence Mascara Lash Princess is a popular mascara known for its volumizing and lengthening effects. Achieve dramatic lashes with this long-lasting and cruelty-free formula.",
-    "category": "beauty",
-    "price": 9.99,
-    "discountPercentage": 7.17,
+    "category": "Messaging",
+    "price": 0.0,
     "rating": 4.94,
-    "stock": 5,
     "features": [
       "beauty",
       "mascara"
@@ -55,6 +53,7 @@
       "qrCode": "https://assets.dummyjson.com/public/qr-code.png"
     },
     "images": [
+      "https://img.freepik.com/free-vector/whatsapp-icon-design_23-2147900929.jpg",
       "https://img.freepik.com/free-psd/whatsapp-call-icon-psd-editable_314999-3666.jpg"
     ],
     "apkFile": "https://cdn.dummyjson.com/products/images/beauty/Essence%20Mascara%20Lash%20Princess/apkFile.png"
@@ -67,7 +66,6 @@
     "price": 19.99,
     "discountPercentage": 5.5,
     "rating": 3.28,
-    "stock": 44,
     "features": [
       "beauty",
       "eyeshadow"
@@ -127,7 +125,6 @@
     "price": 14.99,
     "discountPercentage": 18.14,
     "rating": 3.82,
-    "stock": 59,
     "features": [
       "beauty",
       "face powder"
@@ -187,7 +184,6 @@
     "price": 12.99,
     "discountPercentage": 19.03,
     "rating": 2.51,
-    "stock": 68,
     "features": [
       "beauty",
       "lipstick"
@@ -247,7 +243,6 @@
     "price": 8.99,
     "discountPercentage": 2.46,
     "rating": 3.91,
-    "stock": 71,
     "features": [
       "beauty",
       "nail polish"
@@ -307,7 +302,6 @@
     "price": 49.99,
     "discountPercentage": 0.32,
     "rating": 4.85,
-    "stock": 17,
     "features": [
       "fragrances",
       "perfumes"
@@ -369,7 +363,6 @@
     "price": 129.99,
     "discountPercentage": 18.64,
     "rating": 2.76,
-    "stock": 41,
     "features": [
       "fragrances",
       "perfumes"
@@ -431,7 +424,6 @@
     "price": 89.99,
     "discountPercentage": 17.44,
     "rating": 3.31,
-    "stock": 91,
     "features": [
       "fragrances",
       "perfumes"
@@ -493,7 +485,6 @@
     "price": 69.99,
     "discountPercentage": 11.47,
     "rating": 2.68,
-    "stock": 3,
     "features": [
       "fragrances",
       "perfumes"
@@ -555,7 +546,6 @@
     "price": 79.99,
     "discountPercentage": 8.9,
     "rating": 2.69,
-    "stock": 93,
     "features": [
       "fragrances",
       "perfumes"
@@ -617,7 +607,6 @@
     "price": 1899.99,
     "discountPercentage": 0.29,
     "rating": 4.14,
-    "stock": 47,
     "features": [
       "furniture",
       "beds"
@@ -679,7 +668,6 @@
     "price": 2499.99,
     "discountPercentage": 18.54,
     "rating": 3.08,
-    "stock": 16,
     "features": [
       "furniture",
       "sofas"
@@ -741,7 +729,6 @@
     "price": 299.99,
     "discountPercentage": 9.58,
     "rating": 4.48,
-    "stock": 16,
     "features": [
       "furniture",
       "bedside tables"
@@ -803,7 +790,6 @@
     "price": 499.99,
     "discountPercentage": 15.23,
     "rating": 4.11,
-    "stock": 47,
     "features": [
       "furniture",
       "office chairs"
@@ -865,7 +851,6 @@
     "price": 799.99,
     "discountPercentage": 11.22,
     "rating": 3.26,
-    "stock": 95,
     "features": [
       "furniture",
       "bathroom"
@@ -927,7 +912,6 @@
     "price": 1.99,
     "discountPercentage": 1.97,
     "rating": 2.96,
-    "stock": 9,
     "features": [
       "fruits"
     ],
@@ -985,7 +969,6 @@
     "price": 12.99,
     "discountPercentage": 17.99,
     "rating": 2.83,
-    "stock": 96,
     "features": [
       "meat"
     ],
@@ -1043,7 +1026,6 @@
     "price": 8.99,
     "discountPercentage": 9.57,
     "rating": 2.88,
-    "stock": 13,
     "features": [
       "pet supplies",
       "cat food"
@@ -1102,7 +1084,6 @@
     "price": 9.99,
     "discountPercentage": 10.46,
     "rating": 4.61,
-    "stock": 69,
     "features": [
       "meat"
     ],
@@ -1161,7 +1142,6 @@
     "price": 4.99,
     "discountPercentage": 18.89,
     "rating": 4.01,
-    "stock": 22,
     "features": [
       "cooking essentials"
     ],
