@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Banner 1",
+    "imageUrl": "https://event.apnademand.com/api/public/banners/1734172544.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Banner 2",
+    "imageUrl": "https://event.apnademand.com/api/public/banners/1734172744.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Banner 3",
+    "imageUrl": "https://event.apnademand.com/api/public/banners/1734172823.webp"
+  },
+  {
+    "id": 4,
+    "name": "Banner 3",
+    "imageUrl": "https://img.freepik.com/free-vector/modern-sale-stickers-tags-colorful-collection_206725-258.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Banner 3",
+    "imageUrl": "https://img.freepik.com/free-vector/gradient-republic-day-horizontal-banner_23-2149186414.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Banner 3",
+    "imageUrl": "https://img.freepik.com/premium-psd/youtube-channel-cover-banner-art-linkedin-header-template_763013-112.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Banner 3",
+    "imageUrl": "https://img.freepik.com/premium-vector/business-card-plumbing-concept_261524-3446.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Banner 3",
+    "imageUrl": "https://img.freepik.com/premium-psd/professional-youtube-banner-cover-template_623685-14.jpg"
+  }
+]

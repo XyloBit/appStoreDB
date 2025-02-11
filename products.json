@@ -1,0 +1,168 @@
+[
+  {
+    "id": 1,
+    "title": "WhatsApp Messenger",
+    "description": "WhatsApp is a free messaging app available for Android and other smartphones. It uses your phone's Internet connection to send messages, make calls, and share media.",
+    "category": "Messaging",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.8,
+    "features": [
+      "End-to-End Encryption",
+      "Voice and Video Calls",
+      "Group Chats",
+      "File Sharing",
+      "Status Updates"
+    ],
+    "company": "Meta Platforms, Inc.",
+    "size": 35,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "9164035109868",
+      "qrCode": "https://www.whatsapp.com/qr-code"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5e/WhatsApp_icon.png",
+      "https://www.whatsapp.com/img/whatsapp-logo.png"
+    ],
+    "apkFile": "https://www.whatsapp.com/android/apk"
+  },
+  {
+    "id": 6,
+    "title": "Instagram",
+    "description": "Instagram is a social media platform for sharing photos and videos with friends and followers.",
+    "category": "Social",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.4,
+    "features": [
+      "Photo & Video Sharing",
+      "Stories",
+      "Live Streaming",
+      "Messaging",
+      "Reels"
+    ],
+    "company": "Meta Platforms, Inc.",
+    "size": 55,
+    "meta": {
+      "createdAt": "2024-05-23T19:30:00.000Z",
+      "updatedAt": "2024-05-23T19:30:00.000Z",
+      "barcode": "9567890123456",
+      "qrCode": "https://www.instagram.com/qr-code"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
+    ],
+    "apkFile": "https://www.instagram.com/download/android/"
+  },
+  {
+    "id": 3,
+    "title": "Spotify",
+    "description": "Spotify is a digital music streaming service that gives you access to millions of songs, podcasts, and videos.",
+    "category": "Music",
+    "paid": true,
+    "price": 9.99,
+    "rating": 4.6,
+    "features": [
+      "Music Streaming",
+      "Offline Mode",
+      "Podcasts",
+      "Playlist Creation"
+    ],
+    "company": "Spotify AB",
+    "size": 60,
+    "meta": {
+      "createdAt": "2024-05-23T12:45:00.000Z",
+      "updatedAt": "2024-05-23T12:45:00.000Z",
+      "barcode": "9234567890123",
+      "qrCode": "https://www.spotify.com/qr-code"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Spotify_2.png/640px-Spotify_2.png"
+    ],
+    "apkFile": "https://www.spotify.com/download/android/"
+  },
+  {
+    "id": 4,
+    "title": "Netflix",
+    "description": "Netflix is a subscription-based streaming service that allows users to watch TV shows and movies online.",
+    "category": "Entertainment",
+    "paid": true,
+    "price": 15.99,
+    "rating": 4.5,
+    "features": [
+      "Unlimited Streaming",
+      "Offline Viewing",
+      "Multiple Profiles",
+      "4K Ultra HD"
+    ],
+    "company": "Netflix, Inc.",
+    "size": 75,
+    "meta": {
+      "createdAt": "2024-05-23T15:20:45.000Z",
+      "updatedAt": "2024-05-23T15:20:45.000Z",
+      "barcode": "9345678901234",
+      "qrCode": "https://www.netflix.com/qr-code"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Netflix-Symbol.png?20230915172024"
+    ],
+    "apkFile": "https://www.netflix.com/android-app"
+  },
+  {
+    "id": 5,
+    "title": "Google Maps",
+    "description": "Google Maps helps you navigate, explore, and discover places around you with real-time traffic updates and GPS navigation.",
+    "category": "Navigation",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.8,
+    "features": [
+      "Turn-by-Turn Navigation",
+      "Street View",
+      "Offline Maps",
+      "Real-Time Traffic Updates"
+    ],
+    "company": "Google LLC",
+    "size": 50,
+    "meta": {
+      "createdAt": "2024-05-23T17:10:00.000Z",
+      "updatedAt": "2024-05-23T17:10:00.000Z",
+      "barcode": "9456789012345",
+      "qrCode": "https://www.google.com/maps/qr-code"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Meet.png/640px-Google_Meet.png"
+    ],
+    "apkFile": "https://www.google.com/maps/android-app"
+  },
+  {
+    "id": 2,
+    "title": "Telegram",
+    "description": "Telegram is a cloud-based instant messaging app with fast and secure communication.",
+    "category": "Messaging",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.7,
+    "features": [
+      "Cloud Sync",
+      "Channels & Groups",
+      "Secret Chats",
+      "Media Sharing",
+      "Custom Themes"
+    ],
+    "company": "Telegram FZ-LLC",
+    "size": 45,
+    "meta": {
+      "createdAt": "2024-05-23T10:15:30.000Z",
+      "updatedAt": "2024-05-23T10:15:30.000Z",
+      "barcode": "9123456789012",
+      "qrCode": "https://telegram.org/img/qr-code.png"
+    },
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png"
+    ],
+    "apkFile": "https://telegram.org/dl/android"
+  }
+]
