@@ -116,7 +116,7 @@
       "barcode": "9345678901234",
       "qrCode": "https://www.netflix.com/qr-code"
     },
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Netflix-Symbol.png?20230915172024",
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/Netflix_logo.jpg",
     "images": [
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269453802.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269467968.jpg",
@@ -147,7 +147,7 @@
       "barcode": "9456789012345",
       "qrCode": "https://www.google.com/maps/qr-code"
     },
-    "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Meet.png/640px-Google_Meet.png",
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/gmap_logo.jpg",
     "images": [
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269453802.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269467968.jpg",
