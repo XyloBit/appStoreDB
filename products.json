@@ -52,7 +52,7 @@
       "qrCode": "https://telegram.org/img/qr-code.png"
     },
     "images": [
-      "https://telegram.org/img/telegram-logo.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Telegram_blue_icon.png/640px-Telegram_blue_icon.png"
     ],
     "apkFile": "https://telegram.org/dl/android"
   },
@@ -79,7 +79,7 @@
       "qrCode": "https://www.spotify.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/7/74/Spotify_App_Logo.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Spotify_2.png/640px-Spotify_2.png"
     ],
     "apkFile": "https://www.spotify.com/download/android/"
   },
@@ -106,7 +106,7 @@
       "qrCode": "https://www.netflix.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/69/Netflix_logo.png"
+      "https://upload.wikimedia.org/wikipedia/commons/3/3e/Netflix-Symbol.png?20230915172024"
     ],
     "apkFile": "https://www.netflix.com/android-app"
   },
@@ -133,7 +133,7 @@
       "qrCode": "https://www.google.com/maps/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/a/aa/Google_Maps_icon.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Google_Meet.png/640px-Google_Meet.png"
     ],
     "apkFile": "https://www.google.com/maps/android-app"
   },
@@ -161,7 +161,7 @@
       "qrCode": "https://www.instagram.com/qr-code"
     },
     "images": [
-      "https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png"
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/640px-Instagram-Icon.png"
     ],
     "apkFile": "https://www.instagram.com/download/android/"
   }
