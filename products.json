@@ -29,7 +29,7 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://www.whatsapp.com/android/apk"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   },
   {
     "id": 6,
@@ -61,7 +61,7 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://www.instagram.com/download/android/"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   },
   {
     "id": 3,
@@ -92,7 +92,7 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://www.spotify.com/download/android/"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   },
   {
     "id": 4,
@@ -123,7 +123,7 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://www.netflix.com/android-app"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   },
   {
     "id": 5,
@@ -154,7 +154,7 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://www.google.com/maps/android-app"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   },
   {
     "id": 2,
@@ -186,6 +186,6 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
     ],
-    "apkFile": "https://telegram.org/dl/android"
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/dummy.pdf"
   }
 ]
