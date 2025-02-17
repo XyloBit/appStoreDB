@@ -32,7 +32,7 @@
     "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/via.apk"
   },
   {
-    "id": 6,
+    "id": 2,
     "title": "Instagram",
     "description": "Instagram is a social media platform for sharing photos and videos with friends and followers.",
     "category": "Social",
@@ -157,7 +157,7 @@
     "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/via.apk"
   },
   {
-    "id": 2,
+    "id": 6,
     "title": "Telegram",
     "description": "Telegram is a cloud-based instant messaging app with fast and secure communication.",
     "category": "Messaging",
@@ -189,7 +189,71 @@
     "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/via.apk"
   },
   {
-    "id": 1,
+    "id": 7,
+    "title": "WeChat",
+    "description": "WeChat is a free messaging app available for Android and other smartphones. It uses your phone's Internet connection to send messages, make calls, and share media.",
+    "category": "Messaging",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.8,
+    "features": [
+      "End-to-End Encryption",
+      "Voice and Video Calls",
+      "Group Chats",
+      "File Sharing",
+      "Status Updates"
+    ],
+    "company": "WeChat, Inc.",
+    "size": 35,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "9164035109868",
+      "qrCode": "https://www.whatsapp.com/qr-code"
+    },
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
+    ],
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/via.apk"
+  },
+  {
+    "id": 8,
+    "title": "WeChat",
+    "description": "WeChat is a free messaging app available for Android and other smartphones. It uses your phone's Internet connection to send messages, make calls, and share media.",
+    "category": "Messaging",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.8,
+    "features": [
+      "End-to-End Encryption",
+      "Voice and Video Calls",
+      "Group Chats",
+      "File Sharing",
+      "Status Updates"
+    ],
+    "company": "WeChat, Inc.",
+    "size": 35,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "9164035109868",
+      "qrCode": "https://www.whatsapp.com/qr-code"
+    },
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269493504.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/1739269478870.jpg"
+    ],
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/via.apk"
+  },
+  {
+    "id": 9,
     "title": "WeChat",
     "description": "WeChat is a free messaging app available for Android and other smartphones. It uses your phone's Internet connection to send messages, make calls, and share media.",
     "category": "Messaging",
