@@ -219,5 +219,38 @@
       "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/app_screenshot/4.jpg"
     ],
     "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/apk/via.apk"
+  },
+  
+  {
+    "id": 8,
+    "title": "My App",
+    "description": "my App.",
+    "category": "Messaging",
+    "paid": false,
+    "price": 0.0,
+    "rating": 4.8,
+    "features": [
+      "End-to-End Encryption",
+      "Voice and Video Calls",
+      "Group Chats",
+      "File Sharing",
+      "Status Updates"
+    ],
+    "company": "WeChat, Inc.",
+    "size": 35,
+    "meta": {
+      "createdAt": "2024-05-23T08:56:21.618Z",
+      "updatedAt": "2024-05-23T08:56:21.618Z",
+      "barcode": "9164035109868",
+      "qrCode": "https://www.whatsapp.com/qr-code"
+    },
+    "thumbnail": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+    "images": [
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/app_screenshot/wechat.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/wechat_icon.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/app_screenshot/3.jpg",
+      "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/app_screenshot/4.jpg"
+    ],
+    "apkFile": "https://raw.githubusercontent.com/XyloBit/appStoreDB/master/images/apk/my_app.apk"
   }
 ]
